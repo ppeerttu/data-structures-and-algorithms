@@ -60,7 +60,7 @@ int main(int argc, const char * argv[]) {
 	printf("Sorting complete.\n\n");
 	end = clock(); // Ending timestamp of the processing
 
-	printf("Printing 100 most common words in the given file and theid occurrences: \n");
+	printf("Printing 100 most common words in the given file and their occurrences: \n");
 	for (int i = total_size - 1; i > total_size - 101; i--) {
 		hashmap_get_by_index(map, i, &find);
 		occurrence = hashmap_get_occurrence_by_index(map, i);

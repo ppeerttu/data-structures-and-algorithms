@@ -31,6 +31,8 @@ The name of the text file can be either given as a command-line argument or as a
 
 ## Solution
 
+The overall result of this program came close to the overall results of the course author's example results. However, some details (and possible bugs) at file_reader should be modified if wanted to get exactly the same output as in example results.
+
 The solution is divided into two modules; file_reader and hash_map. The files in the [file_reader](file_reader) -directory contain all file-related operations, such as file existence checker and function for reading words from a file into a hash map. The files in the [hash_map](hash_map) -directory contain all hash map -related operations, such as constructor, element inserting and sorting the hash map. The hash_map API is implemented via `map_t` -pointer and keys of elements in the hash map can be accessed via `any_t` -pointer.
 
 See example of hash map API usage below.
