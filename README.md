@@ -7,9 +7,9 @@ This project contains an implementation of coursework for data structures and al
 ### Table of contents
 - [Problem](#problem)
 - [Solution](#solution)
-- [Data structures](#datastructures)
-- [Performance analysis](#performanceanalysis)
-    - [Theoretical analysis](#theoreticalanalysis)
+- [Data structures](#data-structures)
+- [Performance analysis](#performance-analysis)
+    - [Theoretical analysis](#theoretical-analysis)
         - [hashmap_hash](#hashmap_hash)
         - [get_index](#get_index)
         - [hashmap_expand](#hashmap_expand)
