@@ -1,8 +1,23 @@
 # Data structures and algorithms
 
-2017-2018
+**2017-2018**
 
 This project contains an implementation of coursework for data structures and algorithms course at the University of Oulu.
+
+### Table of contents
+- [Problem](#problem)
+- [Solution](#solution)
+- [Data structures](#data structures)
+- [Performance analysis](#performance analysis)
+    - [Theoretical analysis](#theoretical analysis)
+        - [hashmap_hash](#hashmap_hash)
+        - [get_index](#get_index)
+        - [hashmap_expand](#hashmap_expand)
+        - [read_words_into_hash_map](#read_words_into_hash_map)
+        - [hashmap_quicksort](#hashmap_quicksort)
+    - [Tests](#tests)
+    - [Observations](#observations)
+
 
 ## Problem
 
